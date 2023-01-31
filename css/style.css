@@ -58,35 +58,6 @@ ul {
     padding-right: 10px;
 }
 
-.Skills {
-    border-top: 1px solid #893251;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    margin-bottom: 15px;
-}
-
-.hobbies {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;   
-    padding-top: 50px; 
-    padding-bottom: 20px;
-    text-align: center;
-    background-color:#fdf3ed;   
-
-}
-
-.game {
-    max-width: 260px;
-}
-.cat {
-    max-width: 260px;
-}
-.drama {
-    max-width: 260px;
-}
-
 h1 {
     color: #320A18;
     font-size: 36px;
